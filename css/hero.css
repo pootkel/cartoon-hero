@@ -1,6 +1,6 @@
 body{
     background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(121, 9, 9) 35%, rgb(255, 166, 0) 100%);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgb(121, 9, 9) 25%, rgb(255, 166, 0) 100%);
     font-family:  Helvetica, sans-serif, cursive;
     margin: 0px;
     font-size: 22px;
@@ -44,6 +44,7 @@ main img{
 h2{
     font-size: 23px;
     margin: 40px 0 10px;
+    color: #c3b488;
 }
 
 a{
